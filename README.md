@@ -1,6 +1,6 @@
-# nexml-rag
+# EvalRAG
 
-RAG app built for SIH to automate and streamline the evaluation of research proposals.
+RAG app built for Smart India Hackathon to automate and streamline the evaluation of research proposals.
 
 ## Project Setup (using uv)
 
