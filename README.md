@@ -66,6 +66,7 @@ We do **not** rely on LLMs for math.
 
 ## 🏗️ System Architecture
 
+---
 ```mermaid
 graph TD
     A[User Uploads PDF] --> B[Docling OCR & Parsing]
