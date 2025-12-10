@@ -1,13 +1,9 @@
-# EvalRAG
-
-RAG app built for Smart India Hackathon to automate and streamline the evaluation of research proposals.
-
-# 💎 OreSight: Intelligent R&D Proposal Evaluator
+# 💎 EvalRAG: Intelligent R&D Proposal Evaluator
 
 > **Automating the Future of Research Funding with Agentic RAG & Deterministic Logic.**
 
-[![Ragas Score](https://img.shields.io/badge/RAGAS_Score-90%25-green)](https://github.com/Saad1926Q/nexml-rag)
-[![Tech Stack](https://img.shields.io/badge/Stack-LangChain_|_OpenAI_|_Docling-blue)](https://github.com/Saad1926Q/nexml-rag)
+[![Ragas Score](https://img.shields.io/badge/RAGAS_Score-90%25-green)]
+[![Tech Stack](https://img.shields.io/badge/Stack-LangChain_|_OpenAI_|_Docling-blue)]
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## 📋 Table of Contents
