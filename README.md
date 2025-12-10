@@ -63,25 +63,6 @@ We do **not** rely on LLMs for math.
 - Equipped with **Supermemory** to retain context across long sessions.
 
 ---
-
-## 🏗️ System Architecture
-
----
-```mermaid
-graph TD
-    A[User Uploads PDF] --> B[Docling OCR & Parsing]
-    B --> C{Agentic Relevance Check}
-    C -- Not Relevant --> D[Reject & Notify Admin]
-    C -- Relevant --> E[Semantic Chunking]
-    E --> F[Vector Database]
-    
-    F --> G[Novelty Analysis Module]
-    F --> H[Budget Logic Pipeline]
-    F --> I[S&T Compliance Check]
-    
-    G & H & I --> J[LLM Final Evaluator]
-    J --> K[Generate 9-Point Scorecard]
-    K --> L[Final PDF Report]
 ## Project Setup (using uv)
 
 ```bash
