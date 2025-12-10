@@ -2,10 +2,6 @@
 
 > **Automating the Future of Research Funding with Agentic RAG & Deterministic Logic.**
 
-[![Ragas Score](https://img.shields.io/badge/RAGAS_Score-90%25-green)]
-[![Tech Stack](https://img.shields.io/badge/Stack-LangChain_|_OpenAI_|_Docling-blue)]
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
 ## 📋 Table of Contents
 - [Problem Statement](#-problem-statement)
 - [The Solution](#-the-solution)
