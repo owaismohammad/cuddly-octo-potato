@@ -121,14 +121,3 @@ nexml-rag/
 ```
 
 
-## Implemented
-- Novelty Analysis 
-- S&T Guidelines Compliance
-
-## TODO
-- Currently I have commented out the logic for handling images for simplicity
-- Final evaluation score paprt pending
-- Talk to proposal
-- Arxiv feature
-- check things for a better llm response with minimal hallucination
-- regarding scores make sure that you always get a score
