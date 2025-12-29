@@ -1,4 +1,4 @@
-# 💎 OreSight: Intelligent R&D Proposal Evaluator
+# Intelligent R&D Proposal Evaluator
 
 > **Automating the Future of Research Funding with Agentic RAG & Deterministic Logic.**
 
